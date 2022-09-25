@@ -43,4 +43,6 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 ```
 
 ## Installation Instructions
+
+To run this project, clone this GitHub Repository to your device. Install it locally using `npm install`. After installing the npm packages, the application will run with `npm run develop`.
 ## Links 
